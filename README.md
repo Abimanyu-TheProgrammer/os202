@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Abimanyu's Page
 
-[My log](TXT/mylog.txt)
-[Week 0](W00/)
-[Week 1](W01/)
+[My log](TXT/mylog.txt)<br><hr>
+
+My Weekly Top 10<br>
+- [Week 0](W00/)
+- [Week 1](W01/)
 
 You can use the [editor on GitHub](https://github.com/Abimanyu-TheProgrammer/os202/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
