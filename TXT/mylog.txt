@@ -4,4 +4,7 @@ ZCZC WEEK* MINUTES* LogCode Description
 
 ZCZC W00 100 L00 OS Online Class
 ZCZC W00 10  L01 create Github page
-ZCZC W01 600 L00 Setup Debian, clone repo to Debian
+ZCZC W01 600 L02 Setup Debian, clone repo to Debian
+ZCZC W01 540 L03 Work on Top 10 Lists for Week 0 and Week 1  
+ZCZC W02 60  L04 Generate a GnuPG Key Pair and put it in my os202 repo
+ZCZC W02 300 L05 Work on Top 10 List for Week 2 (Learn about Attacks and Malwares)
