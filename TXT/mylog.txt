@@ -9,3 +9,4 @@ ZCZC W01 540 L03 Work on Top 10 Lists for Week 0 and Week 1
 ZCZC W02 60  L04 Generate a GnuPG Key Pair and put it in my os202 repo
 ZCZC W02 300 L05 Work on Top 10 List for Week 2 (Learn about Attacks and Malwares)
 ZCZC W03 150 L06 Learn Scripting
+ZCZC W04 120 L07 Work on W03 checklist
