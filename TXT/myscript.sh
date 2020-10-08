@@ -1,18 +1,28 @@
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
-SHA="SHA256SUM"
+#!/usr/bin/bash
 
-rm -f $SHA $SHA.asc
+# This bash script is used to backup a user's home directory to /tmp/.
+user=$(whoami)
+input=/home/$user
+output=/tmp/${user}_home_$(date +%Y-%m-%d_%H%M%S).tar.gz
 
-echo "sha256sum $FILES > $SHA"
-sha256sum $FILES > $SHA
+# the function total_files reports a total number of filees for a given directory
+function total_files {
+	find $1 -type f | wc -l
+}
 
-echo "sha256sum -c $SHA"
-sha256sum -c $SHA
+# the function total_directories reports a total number of files for a given directory.
+function total_directories {
+	find $1 -type d | wc -l
+}
 
-echo "gpg -o $SHA.asc -a -sb $SHA"
-gpg -o $SHA.asc -a -sb $SHA
+tar -czf $output $input 2> /dev/null
 
-echo "gpg --verify $SHA.asc $SHA"
-gpg --verify $SHA.asc $SHA
+echo -n "Files to be included:"
+total_files $input
+echo -n "Directories to be included:"
+total_directories $input
 
-exit 0
+echo "Backup of $input completed"
+
+echo "Backup of $input completed! Details about the output backup file:"
+ls -l $output
