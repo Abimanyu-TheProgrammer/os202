@@ -12,3 +12,5 @@ ZCZC W03 150 L06 Learn Scripting
 ZCZC W03 120 L07 Work on W03 checklist
 ZCZC W04 120 L08 Work on Week04 checklist
 ZCZC W04 150 L09 Work on Week04 Top Ten List
+ZCZC W04 120 L08 Work on Week05 checklist
+ZCZC W04 240 L09 Work on Week05 Top Ten List
