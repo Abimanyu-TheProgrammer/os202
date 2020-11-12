@@ -12,5 +12,11 @@ ZCZC W03 150 L06 Learn Scripting
 ZCZC W03 120 L07 Work on W03 checklist
 ZCZC W04 120 L08 Work on Week04 checklist
 ZCZC W04 150 L09 Work on Week04 Top Ten List
-ZCZC W04 120 L08 Work on Week05 checklist
-ZCZC W04 240 L09 Work on Week05 Top Ten List
+ZCZC W05 120 L08 Work on Week05 checklist
+ZCZC W05 240 L09 Work on Week05 Top Ten List
+ZCZC W06 150 L10 Learn C Language
+ZCZC W06 120 L11 Read about threads and processes
+ZCZC W06 30  L12 Trying out the fork(), wait(), and sleep() functions
+ZCZC W06 10  L13 Learning how to encrypt files with GnuPG
+ZCZC W06 240 L14 Work on Week6 checklist
+ZCZC W06 60  L15 Making Week6 Top 10 List 
