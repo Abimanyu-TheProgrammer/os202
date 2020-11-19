@@ -10,5 +10,6 @@ My Weekly Top 10<br>
 - [Week 4](W04/)
 - [Week 5](W05/)
 - [Week 6](W06/)
+- [Week 7](W07/)
 
 
