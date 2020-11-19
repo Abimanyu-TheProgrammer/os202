@@ -20,3 +20,10 @@ ZCZC W06 30  L12 Trying out the fork(), wait(), and sleep() functions
 ZCZC W06 10  L13 Learning how to encrypt files with GnuPG
 ZCZC W06 240 L14 Work on Week6 checklist
 ZCZC W06 60  L15 Making Week6 Top 10 List 
+ZCZC W07 240 L16 Making Week7 Top 10 List
+ZCZC W07 60  L17 Reading about Deadlock
+ZCZC W07 60  L18 Reading about Semaphore
+ZCZC W07 60  L19 Reading about Critical Section
+ZCZC W07 60  L20 Reading about Resourcee Starvation
+ZCZC W07 30  L21 Trying to understand the implementation of semaphore in C
+ 
