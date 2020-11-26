@@ -26,4 +26,4 @@ ZCZC W07 60  L18 Reading about Semaphore
 ZCZC W07 60  L19 Reading about Critical Section
 ZCZC W07 60  L20 Reading about Resourcee Starvation
 ZCZC W07 30  L21 Trying to understand the implementation of semaphore in C
- 
+ZCZC W08 60  L22 Trying to find a way to transfer a file from windows to debian
