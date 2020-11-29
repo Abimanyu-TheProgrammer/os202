@@ -27,3 +27,6 @@ ZCZC W07 60  L19 Reading about Critical Section
 ZCZC W07 60  L20 Reading about Resourcee Starvation
 ZCZC W07 30  L21 Trying to understand the implementation of semaphore in C
 ZCZC W08 60  L22 Trying to find a way to transfer a file from windows to debian
+ZCZC W08 10  L23 Fixing the X05SHA
+ZCZC W08 120 L24 Making myW08.tar.bz2.txt
+ZCZC W08 180 L25 Watching youtube videos on CPU scheduling and scheduling algorithms
