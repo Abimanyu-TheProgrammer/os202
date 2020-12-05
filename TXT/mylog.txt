@@ -30,3 +30,9 @@ ZCZC W08 60  L22 Trying to find a way to transfer a file from windows to debian
 ZCZC W08 10  L23 Fixing the X05SHA
 ZCZC W08 120 L24 Making myW08.tar.bz2.txt
 ZCZC W08 180 L25 Watching youtube videos on CPU scheduling and scheduling algorithms
+ZCZC W09 90  L26 Trying to make shared folders work
+ZCZC W09 360 L27 Following chapter 1 - 6
+ZCZC W09 15  L28 Figuring out how to change the ownership of a file
+ZCZC W09 20  L29 Finding out why do we need to partition our disk
+ZCZC W09 15  L30 Reading about Bootloaders
+ZCZC W09 25  L28 Reading about UEFI and BIOS
