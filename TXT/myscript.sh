@@ -1,18 +1,11 @@
 #!/bin/bash
 
-#This script can be used to copy files to my repo.
-
+# This script can be used to copy files from the shared folder in debian to my account
+# it also changes the ownership of the file to Abimanyu-TheProgrammer
 
 for var in "$@"
 do
-        cp $var /home/Abimanyu-TheProgrammer/git/os202/TXT/
-        echo "Copy of $var was successful."
+	cp $var /home/Abimanyu-TheProgrammer/
+	chown Abimanyu-TheProgrammer /home/Abimanyu-TheProgrammer/$var
 done
-echo "Transfer finished."
-cp sha.sh /home/Abimanyu-TheProgrammer/git/os202/TXT/
-cd git/os202/TXT/
-bash sha.sh
-rm -f sha.sh
-cd
-echo "SHASUM256 updated."
-gitstat
+echo "Files moved and ownership changed"
