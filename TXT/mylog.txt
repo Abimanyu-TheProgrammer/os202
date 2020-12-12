@@ -36,3 +36,9 @@ ZCZC W09 15  L28 Figuring out how to change the ownership of a file
 ZCZC W09 20  L29 Finding out why do we need to partition our disk
 ZCZC W09 15  L30 Reading about Bootloaders
 ZCZC W09 25  L28 Reading about UEFI and BIOS
+ZCZC W10 360 L29 Following chapter 7
+ZCZC W10 30  L30 Making shared folders work for the LFS debian guest to move the result file to OSP
+ZCZC W10 25  L31 Looking for ideas for the new script
+ZCZC W10 10  L32 Found an often enough thing that i do which i made a script for
+ZCZC W10 5   L33 Watched a video on Network Programming
+ZCZC W10 3   L34 Watched a video on Direct Memory Access
